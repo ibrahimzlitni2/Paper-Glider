@@ -1,0 +1,10 @@
+{
+  "name": "paper-glider-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Paper Glider — WebRTC multiplayer with a Neon-backed shop",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0"
+  }
+}
